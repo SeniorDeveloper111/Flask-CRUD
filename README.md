@@ -16,3 +16,6 @@ $ env:FLASK_APP = "run.py"
 ```bash
 $ flask run
 ```
+
+## DB info
+mysql
